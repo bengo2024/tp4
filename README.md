@@ -12,7 +12,7 @@ Ce projet utilise Docker Compose pour déployer Odoo 18, PostgreSQL 16, et pgAdm
 ## Instructions
 1. Assurez-vous que Docker et Docker Compose sont installés.
 2. Clonez ce dépôt :
-git clone  
+git clone https://github.com/bengo2024/tp4.git
 cd  
 
 3.Lancez les services :
